@@ -8,7 +8,7 @@
     "serv": "npx http-server",
     "servstart": "npm run start & npm run serv"
   },
-  "author": "wolse",
+  "author": "rami",
   "license": "ISC",
   "dependencies": {
     "bcrypt": "^5.1.1",
